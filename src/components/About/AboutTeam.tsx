@@ -4,17 +4,17 @@ const leaders = [
   {
     name: 'Ganesh Subramanian',
     role: 'Founder & CEO',
-    image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=400&q=80'
+    image: 'https://cdn.asp.events/CLIENT_AIS_4ECF9403_5056_B731_4C2E7E25E0DDB2FB/peopleProfiles/3059CB5B-A1F4-D87E-EA7CC10EA1EE983E-profileimg.jpg/fit-in/500x500/filters:no_upscale()'
   },
   {
     name: 'Sharath Puranik',
     role: 'Co-founding Member, Director - Product & Technology',
-    image: 'https://images.unsplash.com/photo-1519345182560-3f2917c472ef?auto=format&fit=crop&w=400&q=80'
+    image: 'https://www.stylumia.ai/wp-content/uploads/2020/02/imgonline-com-ua-BlackWhite-CenBnNdHSWpbCV-e1582794223639-1-1.jpg'
   },
   {
     name: 'Abhishek Thakur',
     role: 'Advisor - Data Science',
-    image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80'
+    image: 'https://miro.medium.com/v2/resize:fit:1000/0*H1SEVSaV75cydTQ7'
   }
 ];
 
